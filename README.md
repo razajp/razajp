@@ -21,4 +21,3 @@ React · Node.js · MongoDB · Laravel · TypeScript · Flutter · Tailwind · G
 
 ### 📫 Connect
 [Portfolio](https://hasan.sparkpair.dev) · [LinkedIn](https://linkedin.com/in/raza-jp) · hasan@sparkpair.dev
-```
